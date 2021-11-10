@@ -2,6 +2,8 @@ from colorama import init
 from colorama import Fore, Back, Style
 init()
 
+#This is comment
+
 print(Back.WHITE)
 print(Fore.BLACK)
 what = input("Что делаем (+, -): ")
